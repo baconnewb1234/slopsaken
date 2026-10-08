@@ -1,0 +1,6 @@
+{
+  "name": "Slopsaken",
+  "description": "Slopsaken - Fast-paced 3D asymmetrical doodle horror game. 1 Hunter vs 4 Survivors with online lobbies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
